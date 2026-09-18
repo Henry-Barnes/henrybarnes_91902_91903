@@ -1,0 +1,38 @@
+"unique_ID","full_character_name","crew_ID","fruit_type_ID","origin_ID","trait_1ID","trait_2ID","trait_3ID","bounty","description","featured"
+"1","Monkey D. Luffy","1","2","1","2","8","1","3000000000","Captain of the Straw Hat Pirates, dreams of becoming the Pirate King.","luffy.png"
+"2","Roronoa Zoro","1","4","1","1","7","4","1111000000","Swordsman aiming to become the greatest in the world.","zoro.png"
+"3","Nami","1","4","1","3","8","10","366000000","Navigator of the Straw Hats, dreams of mapping the entire world.",
+"4","Trafalgar Law","2","1","1","3","7","9","3000000000","Captain of the Heart Pirates, a calculating surgeon.",
+"5","Jinbe","1","4","2","1","7","5","1100000000","Former Warlord, helmsman of the Straw Hat Pirates.",
+"6","Edward Newgate","4","1","1","1","4","7","5046000000","Captain of the Whitebeard Pirates, once called the strongest man in the world.",
+"7","Sakazuki (Akaniu)","3","3","1","7","9","1","0","The current Fleet Admiral of the Marines. He serves as one of the primary and most ruthless antagonists in the story.",
+"8","Loki","1","2","3","3","9","2","2600000000","Prince Loki is the notorious ""Accursed Prince"" and second-born royal heir of Elbaph.",
+"crew_ID","crew","crew_icon"
+"1","Straw Hat Pirates","crew_strawhat.png"
+"2","Heart Pirates","crew_heart.png"
+"3","Marines","crew_marines.png"
+"4","Whitebeard Pirates","crew_whitebeard.png"
+"type_ID","fruit_type","type_icon"
+"1","Paramecia","fruit_paramecia.png"
+"2","Zoan","fruit_zoan.png"
+"3","Logia","fruit_logia.png"
+"4","None","fruit_none.png"
+"origin_ID","origin","origin_icon"
+"1","Human","origin_human.png"
+"2","Fishman","origin_fishman.png"
+"3","Giant","origin_giant.png"
+"4","Mink","origin_mink.png"
+"trait_ID","traits"
+"1","Loyal"
+"2","Reckless"
+"3","Cunning"
+"4","Ambitious"
+"5","Kind-hearted"
+"6","Cowardly"
+"7","Disciplined"
+"8","Cheerful"
+"9","Ruthless"
+"10","Curious"
+"11","n/a"
+"UserID","username","password"
+"1","admin","$2a$12$rAmt4i4B95EGuNZbpMbniuuZ.2KwrgzGDOvAB5IC0/GSlMK8wBEya"
