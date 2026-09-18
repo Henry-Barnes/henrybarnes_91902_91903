@@ -1,0 +1,38 @@
+/* Advanced search side panel, based on a W3Schools pattern */
+
+.panel {
+	width: 0;
+	position: fixed;
+	z-index: 1;
+	top: 150px;
+	left: 0;
+	overflow-x: hidden;
+	padding: 0;
+	transition: 0.4s;
+	background-color: var(--black);
+}
+
+.PanelWrapper {
+	padding: 10px;
+}
+
+.panel-header {
+	display: flex;
+	justify-content: space-between;
+}
+
+.panel a {
+	padding: 8px 8px 8px 32px;
+	text-decoration: none;
+	color: var(--error-back);
+	transition: 0.3s;
+}
+
+.panel a:hover {
+	color: #f56969;
+}
+
+.closebtn {
+	top: 0;
+	font-size: 36px;
+}
